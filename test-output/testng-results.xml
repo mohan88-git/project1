@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="84" started-at="2020-01-28T05:26:36Z" finished-at="2020-01-28T05:26:36Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="84" started-at="2020-01-28T05:26:36Z" finished-at="2020-01-28T05:26:36Z">
+      <class name="seleniumtestng.Annation">
+        <test-method status="PASS" signature="sample1()[pri:0, instance:seleniumtestng.Annation@b4c3ab]" name="sample1" is-config="true" duration-ms="22" started-at="2020-01-28T10:56:36Z" finished-at="2020-01-28T10:56:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sample1 -->
+        <test-method status="PASS" signature="sample3()[pri:0, instance:seleniumtestng.Annation@b4c3ab]" name="sample3" is-config="true" duration-ms="0" started-at="2020-01-28T10:56:36Z" finished-at="2020-01-28T10:56:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sample3 -->
+        <test-method status="PASS" signature="sample8()[pri:0, instance:seleniumtestng.Annation@b4c3ab]" name="sample8" is-config="true" duration-ms="1" started-at="2020-01-28T10:56:36Z" finished-at="2020-01-28T10:56:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sample8 -->
+        <test-method status="PASS" signature="sample9()[pri:0, instance:seleniumtestng.Annation@b4c3ab]" name="sample9" duration-ms="18" started-at="2020-01-28T10:56:36Z" finished-at="2020-01-28T10:56:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sample9 -->
+        <test-method status="PASS" signature="sample7()[pri:0, instance:seleniumtestng.Annation@b4c3ab]" name="sample7" is-config="true" duration-ms="0" started-at="2020-01-28T10:56:36Z" finished-at="2020-01-28T10:56:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sample7 -->
+        <test-method status="PASS" signature="sample5()[pri:0, instance:seleniumtestng.Annation@b4c3ab]" name="sample5" is-config="true" duration-ms="1" started-at="2020-01-28T10:56:36Z" finished-at="2020-01-28T10:56:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sample5 -->
+        <test-method status="PASS" signature="sample4()[pri:0, instance:seleniumtestng.Annation@b4c3ab]" name="sample4" is-config="true" duration-ms="1" started-at="2020-01-28T10:56:36Z" finished-at="2020-01-28T10:56:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sample4 -->
+        <test-method status="PASS" signature="sample2()[pri:0, instance:seleniumtestng.Annation@b4c3ab]" name="sample2" is-config="true" duration-ms="1" started-at="2020-01-28T10:56:36Z" finished-at="2020-01-28T10:56:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sample2 -->
+      </class> <!-- seleniumtestng.Annation -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
