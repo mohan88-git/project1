@@ -4,6 +4,7 @@
   <test name="Test">
     <classes>
       <class name="seleniumtestng.Annation"/>
+      <class name="seleniumtestng.Annation"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
