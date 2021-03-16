@@ -89,7 +89,7 @@ public void sample9() {
 
 public void sample8() {
 	
-	System.out.println("Before Method");
+	System.out.println("Before Metho");
 	
 	
 }
