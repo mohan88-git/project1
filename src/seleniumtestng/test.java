@@ -40,7 +40,7 @@ public class test {
 
 	public void add1() {
 		
-		System.out.println("run");
+		System.out.println("runn");
 	
 
 	}
